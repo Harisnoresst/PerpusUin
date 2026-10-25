@@ -38,3 +38,35 @@ Catatan: data saat ini hanya mock/demo. Belum ada backend/API/login sungguhan.
 
 ## Update Landing Page
 LandingPage.tsx dan landing.css sudah dibuat berdasarkan mockup landing portal yang dipilih. Asset landing sementara ada di `public/images/landing/` dan dapat diganti kapan saja tanpa mengubah struktur komponen.
+
+# akses git nya
+
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/Harisnoresst/PerpusUin.git
+cd corner-uin
+```
+
+## 2. Ambil Update Terbaru
+
+```bash
+git pull origin main
+```
+
+## 3. Kerjakan Project
+
+```bash
+git status
+```
+
+## 4. Push Perubahan ke GitHub
+
+```bash
+git add .
+git commit -m "Deskripsi perubahan"
+git push origin main
+```
+
+## Catatan
+
