@@ -1,0 +1,41 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+/storage/logs/
+
+# Cache
+/cache/
+/tmp/
+/temp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.old
+*.orig
+*~
+
+# Database dumps
+*.sql
+*.sql.gz
+*.dump
+
+# Secrets and certificates
+*.pem
+*.key
